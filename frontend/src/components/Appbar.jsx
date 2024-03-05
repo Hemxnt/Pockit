@@ -3,7 +3,7 @@ export const Appbar = () => {
     return <div className="shadow h-14 flex justify-between">
         <div className="flex flex-col justify-center h-full ml-4">
             <div >
-                <img className="h-8" src="././src/assets/logo.png" alt="logo" />
+                <img className="h-16" src="././src/assets/logo.png" alt="logo" />
             </div>
         </div>
         <div className="flex">

@@ -4,6 +4,7 @@ import { Heading } from "../components/Heading"
 import { InputBox } from "../components/InputBox"
 import { SubHeading } from "../components/SubHeading"
 
+
 export const Signin = () => {
     return <div className="bg-[url(./assets/bg.png)] bg-cover bg-center h-screen flex justify-center">
     <div className="flex flex-col justify-center">
